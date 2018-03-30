@@ -14,6 +14,21 @@ header-includes:
 
 
 
+
+- soziale beziehung haben ihren praktischen ausdruck in der art und weise, wie eigentum verteilt ist und wie darüber verfügt wird. (s. 48)
+- deshalb kann eine analyse von eigentumsverhältnissen helfen den die bedeutung des begriffs "recht" klären. 48
+
+
+
+
+# 26. August
+
+> "The principles of cosmopolitanism are the conditions for taking cultural diversity seriously and for building a democratic culture to mediate clashes of the cultural good. They are, in short, about the prerequisites of just difference and democratic dialogue. The aim of modern cosmopolitanism is the conceptualization and generation of the necessary background conditions for a 'common' or 'basic' structure of individual action and social activity (see Rawls, 1985: 254ff.)." [@held2010a, S. 76f.]
+
+
+> "So bestätigt [Helds Kosmopolitanismus] auf der einen Seite bestimmte grundlegende egalitäre Prinzipien -- diejenigen, die den gleichen Wert, gleichen Respekt und die gleiche Beachtung der Person etc. betonen -- und erkennt auf der anderen Seite an, dass deren Bedeutung nicht unabhängig von einem permanenten Dialog im öffentlichen Leben geklärt werden kann." [@held2013, S. 75]
+
+
 # 19. August
 
 # Welche Positionen vertritt Held, die belegen, dass Held pro-kapitalistisch argumentiert, dass seine *Kosmopolitanismus* eine pro-kapitalistische Ideologie darstellt?

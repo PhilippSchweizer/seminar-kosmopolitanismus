@@ -19,6 +19,7 @@ header-includes:
   - \usepackage[doublespacing]{setspace}
   - \usepackage[JT-Typography]{titlepage}
   - \setlength\parindent{1.5em}
+  - \renewcommand*{\dictumwidth}{0.5\textwidth}
 ---
 
 
@@ -58,10 +59,82 @@ Betrachten wir zunächst den negativen Gehalt von Helds Prinzipien. Einen negati
 
 Die aktive Handlungsfähigkeit wird von Held aber auch in ihrer Positivität klar zum Ausdruck gebracht, indem sie als die Fähigkeit gedacht wird, "die menschliche Gemeinschaft nicht nur zu akzeptieren, sondern sie auch, im Zusammenhang mit den Entscheidungen anderer, durch das eigene Handeln zu formen" [-@held2013, S. 67]. Das verdeutlicht Held auch in seiner Zusammenfassung der ersten drei Prinzipien, deren Kernaussage er unter anderem so bestimmt, "dass jede Person fähig ist, im Rahmen der ihr zur Verfügung stehenden Möglichkeiten autonom zu handeln und dass bei der Entscheidung darüber, wie gehandelt werden soll oder welche Institutionen geschaffen werden sollen, die Ansprüche aller betroffenen Personen gleichermaßen berücksichtigt werden sollten" [-@held2013, S. 71].
 
+Held grenzt sich auch von einer liberalistischen Auslegung des Eigentumsrechts ab, nach der jeder willkürlich über sein Eigentum verfügen darf. So wird mit Prinzip drei zwar, "dass Menschen sich unweigerlich verschiedene kulturelle, soziale und *wirtschaftliche* Zielen suchen werden und dass diese Unterschiede anerkannt werden müssen." Diese unterschiedlichen Ziele finden ihre Grenze aber in "inakzeptablen strukturellen Ungleichheiten", die "manche Menschen daran hindern [...], ihre vitalsten Bedürfnisse zu befriedigen" [-@held2013, S. 68].
+
+## Abschluss Teil I: Zusammenfassung -- Interpretation -- Überleitung
+
+Wir haben gesehen, dass Marx in seiner Polemik gegen Bauer den beschränkten Charakter der Freiheitsrechte betont wie er in der liberalistischen, bürgerlichen Auffassung derselben zum Ausdruck kommt. Auch bei Held finden wir die Vorstellung des individuellen, auf sich beschränkten Menschen, der von Held mit einer negativen Formulierung seiner Rechte und Pflichten Rechnung getragen wird. Auch für Held ist die Gesellschaft etwas dem Individuum Äußerliches. Diese Sicht auf das Individuum mündet bei Held allerdings nicht in liberalistische Konzeption von Freiheit, die gravierenden Ungleichheiten gegenüber blind wäre. Er zeigt ein Bewusstsein der Probleme dieser Freiheitsauffassung und begegnet diesen damit, indem er seine Prinzipien um eine positive Dimension ergänzt.
+
+Allerdings ist es gerade diese positive Dimension, also die Rede von einer Fähigkeit, autonom zu handeln, die Anlass zu einer tiefer gehenden Kritik an Held gibt. Denn seine Vorstellung des autonom handelnden Menschen ist verbunden mit der kantianischen Vorstellung einer moralischen Autonomie:
+
+> "Persönliche Verantwortung bedeutet in diesem Zusammenhang, dass Akteure und Handelnde sich der direkten oder indirekten, gewollten oder ungewollten Konsequenzen ihres Handelns, welche die Entscheidungen anderer radikal einschränken oder begrenzen könnten, bewusst sein und dafür zur Rechenschaft gezogen werden müssen." [@held2013, S. 71]
+
+\noindent Gesellschaftliche Verhältnisse sind vom autonomen Handeln autonomer Individuen im Verbund mit anderen autonomen Individuen geprägt. Marx lehnt diese Vorstellung nicht nur deshalb ab, weil sie grundsätzlich das Individuum in den Gegensatz zur Gesellschaft setzt, sondern auch, weil sie den Menschen nicht in seiner Abhängigkeit von geschichtlichen und materiellen Verhältnissen fassen kann [vgl. @lohmann1999, S. 91f.].
+
+Der zweite Teil soll zeigen, dass diese Vorstellung einer fehlenden oder falschen Analyse der Dialektik zwischen der Produktionsweise einer Gesellschaft und der Rechte die sie formuliert zugrunde liegt. Helds Konzeption, so soll gezeigt werden, verkommt deshalb zu einem voluntaristischen Lippenbekenntnis.
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ein richtiges und ein falsches verständnis gesellschaftlicher prozesse ODER lassen sich rechte verschreiben?
+
+Im ersten Teil waren die ersten drei Prinzipien von Held Gegenstand einer Kritik, im zweiten Teil wird auf die Prinzipien vier bis sieben eingegangen und eine tiefer gehende Kritik an ihnen geübt, die sich auch auf den Rest der Prinzipien bezieht.
+
+Bisher haben wir versucht, Held sein negatives Verständnis der Freiheitsrechte vorzuhalten und mussten feststellen, dass die Sache so einfach nicht ist. Um zeigen zu können, dass Helds Prinzipien nicht den Kern der Probleme treffen, muss über diesen durchaus kritikwürdigen Punkt hinausgegangen werden. Dazu werden wir zunächst fragen, was sind *Rechte* und wieso lässt sich in ihnen, wie eingangs behauptet, immer eine Vorstellung vom Mensch und seinem Verhältnis zur Gesellschaft finden? Wenn wir diese Frage *materialistisch* beantworten, und das soll auf den nächsten Seiten erfolgen, wird im Gegensatz dazu deutlich, dass Held sie *idealistisch* beantwortet und sein Kosmopolitanismus im besten Falle voluntaristisch (?), im schlimmsten Falle irreführend und schädlich ist.
+
+Eine weitere Konsequenz Helds Idealismus ist seine bemerkenswerte Ignoranz/Weigerung vom Kapitalismus zu sprechen, seine oberflächliche Auffassung der globalen Probleme. Das Wort Kapitalismus kommt im ganzen Buch nur einmal vor, und auch das nur eher am Rande in der vagen Redeweise eines "angloamerikanischen Kapitalismus-Modells" und seiner "strukturellen Schwäche" [-@held2013, S. 17]. Held treibt seine Weigerung vom Kapitalismus zu schreiben so weit, dass er es fertig bringt, sein siebtes Prinzip der Vermeidung schweren Leids völlig unglaubwürdig zu machen. Es "ist ein Leitprinzip der sozialen Gerechtigkeit" lässt er uns wissen, dass "solange den dringlichsten Bedürfnissen Vorrang" einräumt, "solange nicht die ersten sechs Prinzipien de facto und de jure für alle Menschen gegeben sind." Aber "den dringlichsten Bedürfnissen Vorrang" einzuräumen zielt, wenn richtig verstanden, ins Herz des Kapitalismus. Und solange dieses Postulat nicht als Forderung gemeint ist, und dafür gibt es bei Held wirklich keine Anzeichen, "alle Verhältnisse umzuwerfen, in denen der Mensch ein erniedrigtes, ein geknechtetes, ein verlassenes, ein verächtliches Wesen ist." [@marx1981b, S. 385]
+
+- Helds 7. Prinzip der Vermeidung schweren Leids wollte ich thematisieren. und zwar: wer vom Kapitalismus nicht reden will, sollte von der Vermeidung schweren Leids schweigen! Hier könnte ich vielleicht @calhoun2002 zitieren. Oder @shue1980.
+- Helds Metaprinzipien bzw. Prinzipien 4, 5 und 6.
+
+Im ersten Teil wurde vorausgesetzt, dass sich in Rechten immer ein Menschenbild und ein Gesellschaftsbild finden lassen. Aber was genau heißt das und welche philosophische Perspektive liegt dieser Aussage zugrunde?
+Zunächst ist diese Prämisse des ersten Teil in zwei philosophische Richtungen hin interpretierbar/erweiterbar. Der philosophische Idealismus geht davon aus, das die Ursache für Menschen- und Gesellschaftsbild in Rechten in den Ideen derjenigen zu finden sind, die für diese Rechte direkt oder indirekt verantwortlich zeichnen. Ideen machen sich durch das Recht geltend, Ideen erschaffen die Welt. Demgegenüber steht der philosophische Materialismus und kehrt diese kausale Beziehung um und setzt sie in ihr dialektisches Verhältnis.
+
+Aber was sind Rechte, fragt @ash1964 [Kap. 2]. Die Bedeutung des Begriffs "Recht", so seine These, kann durch Deduktion von bestimmten Rechten gewonnen werden, die in den materiellen Bedingungen des Lebens dieses oder jenen Typs von Gesellschaft gegründet sind. Rechte verkörpern Ansprüche, welche die Form von Ansprüchen gegenüber anderen Menschen oder Ansprüche auf Dinge haben können. Zu sagen, es ist rechtens etwas zu tun, erkennen wir die Legitimität eines Anspruchs an. Anderen gegenüber anerkannte Ansprüche basieren auf bestimmten sozialen Beziehungen die Menschen miteinander verbinden [@ash1964, S. 46]. Allgemein zugestandene Ansprüche hängen von sozialen Beziehungen ab, welche von den materiellen Bedingungen des Lebens einer Gesellschaft abhängt. Deshalb sind "Rechte", als das, was Menschen berechtigt sind voneinander zu erwarten, letztlich auf der ökonomischen Basis einer Gesellschaft begründet [@ash1964, S. 47].
+
+
+Das Leben der Menschen ist gesellschaftlich, weil es gesellschaftlich produziert wird. Das heißt auch, das die Menschen "bestimmte, notwendige, von ihrem Willen unabhängige Verhältnisse" eingehen [vgl. @marx1961, S. 8].
+
+Rechte sind Ausdruck der Wechselbeziehung zwischen den Verhältnisse unter denen eine Gesellschaft produziert (Produktionsverhältnisse) und den Mitteln und dem Stand der Produktion (Produktivkräfte). Diese Wechselbeziehung fassen Marx und Engels im Begriff der Produktionsweise zusammen. [BELEG]
+
+Demgegenüber Held, der "die menschliche Handlungsfähigkeit nicht als bloße[n] Ausdruck einer bestimmten Teleologie, des Schicksals oder einer Tradition verstanden" wissen will. Die menschliche Handlungsfähigkeit "muss eher als das Vermögen gedacht werden, sich für eine von diesen Mustern abweichende Handlung entscheiden zu können -- also die Fähigkeit, die menschliche Gemeinschaft nicht nur zu akzeptieren, sondern sie auch, im Zusammenhang mit den Entscheidungen anderer, durch das eigene Handeln zu formen. Die aktive Handlungsfähigkeit bezeichnet das menschliche Vermögen, selbstbewusst zu denken, das eigene Handeln zu reflektieren und selbst zu bestimmen." [@held2013, S. 67]
+
+Klarer könnte Held nicht sein Unverständnis der Funktionsweise gesellschaftlicher Prozesse zum Ausdruck bringen. Im Gegensatz zu diesem Wunschdenken von Held gilt es, gerade die Dialektik zwischen den von unserem Willen unabhängigen Produktionsverhältnissen und der Möglichkeit diese kollektiv umgestalten zu können. In der Tat sind sowohl die Verhältnisse als auch ihre revolutionäre Veränderung vom Willen Einzelner unabhängig.
+
+
+
+
+
+
+
+
+
+# Fazit
+
+<!---
+Or to put it bluntly with Alasdair MacIntyre
+
+Alternatively, the counter-question might be asked from a non-utilitarian perspective. So, for example, Alasdair Maclntyre, in developing a “social ideological,” quasi-Aristotelian view, observes that it would be
+
+> "a little odd that there should be such rights attaching to human beings simply qua human beings in light of the fact […] that there is no expression in any ancient or medieval language correctly translated by our expression ‚a right‘ until near the close of the middle ages: the concept lacks any means of expression in Hebrew, Greek, Latin or Arabic, classical or medieval, before about 1400, let alone in Old English, or in Japanese even as late as the mid-nineteenth century. From this it does not of course follow that there are no natural or human rights; it only follows that no one could have known that there were. And this at least raises certain questions. But we do not need to be distracted into answering them, for the truth is plain: there are no such rights, and belief in them is one with belief in witches and unicorns."
 
 
 
@@ -84,54 +157,23 @@ Aber auch Held weiß, dass sich "Lebenschancen und -möglichkeiten" in aller Reg
 Die Antwort findet sich in den Eigentums- und Produktionsverhältnissen und der Umstand, dass das Mehrprodukt der globalen und gesellschaftlichen Produktion privat angeeignet und darüber verfügt wird.
 
 
-Ein solches Recht, nämlich willkürlich über sein Eigentum zu verfügen, findet sich bei Held nicht.
-yAllerdings heißt es in Prinzip drei "dass Menschen sich unweigerlich verschiedene kulturelle, soziale und *wirtschaftliche* Zielen suchen werden und dass diese Unterschiede anerkannt werden müssen." Warum sollten also nicht auch signifikante Unterschiede hinsichtlich der Verteilung von Gütern und Ressourcen anerkannt werden? Held begegnet diesem Einwand mit der Einschränkung, dass diese Unterschiede ihre Grenze in "inakzeptablen strukturellen Ungleichheiten", die "manche Menschen daran hindern [...], ihre vitalsten Bedürfnisse zu befriedigen", finden. [Vgl. @held2013, S. 68] Aber ab wann werden die Ungleichheiten inakzeptabel und wer bestimmt über die vitalsten Bedürfnisse?
-
-Held geht von der kantianischen Vorstellung einer moralischen Autonomie des Menschen aus, die Marx als zu abstrakte Voraussetzung ablehnt, weil sie den Menschen nicht in seiner Abhängigkeit von geschichtlichen und materiellen Verhältnissen fassen kann. [Vgl. @lohmann1999, S. 91f.]
-
 
 
 > "Marx kritisiert den beschränkten und einseitigen Charakter dieses 'Teils' der Menschenrechte, d.h. der liberalen Freiheitsrechte, indem er zeigt, daß die grundlegenden normativen Ideen von Freiheit, Gleichheit, Sicherheit und Eigentum in einer unzulässigen Verkürzung verstanden werden." [@lohmann1999, S. 99]
 
 > "Marx' Kritik am egoistischen Charakter der Menschenrechte läßt sich als eine Kritik an einer einseitig liberalistischen Auffassung der Menschenrechte verstehen, nach der die Menschenrechte nur (sogenannte) negative Freiheitsrechte beinhalten, d.h. solche Rechte, denen nur negative Pflichten entsprechen sollen. Solche Positionen werden heute, mit Rückgriff auf John Locke, von F. A. Hayek und R. Nozick vertreten. [...] Kritisiert wird hier, daß eine *ausschließliche* Orientierung an negativen Pflichten [...] bestehende Ungerechtigkeiten nicht korrigieren kann und neu entstehende Ungleichheiten, die durch die Prozesse des Marktsystems resultieren, nicht kritisiert werden können. Eine solche Kritik müßte freilich selber eine normative und begründbare Gerechtigkeitskonzeption einführen, in deren Licht dann die Konzeption der *Libertarians* als eine einseitige und unangemessene Gerechtigkeitskonzeption zurückgewiesen werden kann." [@lohmann1999, S. 99]
 
-> "Es ist auch eine Kritik denkbar, die den leitenden *negativen* Freiheitsbegriff als unzureichend zurückweist, und im Lichte eines erweiterten *positiven* Freiheitsbegriff kritisiert, nach dem jemand dann 'wirklich' frei ist, wenn er *darüber hinaus* auch die *Fähigkeiten* und *Gelegenheiten* hat, zu tun oder zu lassen was er will. In beiden F" [@lohmann1999, S. 99f.]
-
+> "Es ist auch eine Kritik denkbar, die den leitenden *negativen* Freiheitsbegriff als unzureichend zurückweist, und im Lichte eines erweiterten *positiven* Freiheitsbegriff kritisiert, nach dem jemand dann 'wirklich' frei ist, wenn er *darüber hinaus* auch die *Fähigkeiten* und *Gelegenheiten* hat, zu tun oder zu lassen was er will." [@lohmann1999, S. 99f.]
 
 > "Zusammenfassend muß man daher feststellen, daß Marx' teils berechtigte Kritik am egoistischen Charakter der bürgerlichen Freiheits- und Menschenrechte und an der Instrumentalisierung des Gemeinwesens umschlägt in eine fatale Denunziation. Bedingt ist diese verhängnisvolle Wendung durch die Postulierung eines neuen Menschen, der selbst nur Teil eines Ganzen sein soll, von dem er notwendigerweise abhängig sein muß." [@lohmann1999, S. 102]
 
 
-Wir finden bei Held ein klares Bewusstsein über die Probleme liberalistischer Freiheitsauffassung. Die Alternative die er vorschlägt ist aber nicht minder problematisch. ... LIPPENBEKENNTNIS 
-
-# ein richtiges und ein falsches verständnis gesellschaftlicher prozesse ODER lassen sich rechte verschreiben?
-
-Im ersten Teil wurde vorausgesetzt, dass sich in Rechten immer ein Menschenbild und ein Gesellschaftsbild finden lassen. Aber was genau heißt das und welche philosophische Perspektive liegt dieser Aussage zugrunde?
-Zunächst ist diese Prämisse des ersten Teil in zwei philosophische Richtungen hin interpretierbar/erweiterbar. Der philosophische Idealismus geht davon aus, das die Ursache für Menschen- und Gesellschaftsbild in Rechten in den Ideen derjenigen zu finden sind, die für diese Rechte direkt oder indirekt verantwortlich zeichnen. Ideen machen sich durch das Recht geltend, Ideen erschaffen die Welt. Demgegenüber steht der philosophische Materialismus und kehrt diese kausale Beziehung um, bzw. er setzt sie in ihr dialektisches Verhältnis, er fasst sie in ihrer Dialektik auf.
-Das Leben der Menschen ist gesellschaftlich, weil es gesellschaftlich produziert wird. Das heißt auch, das die Menschen "bestimmte, notwendige, von ihrem Willen unabhängige Verhältnisse" eingehen [vgl. @marx1961, S. 8].
-
-Rechte sind Ausdruck der Wechselbeziehung zwischen den Verhältnisse unter denen eine Gesellschaft produziert (Produktionsverhältnisse) und den Mitteln und dem Stand der Produktion (Produktivkräfte). Diese Wechselbeziehung fassen Marx und Engels im Begriff der Produktionsweise zusammen. [BELEG]
-
-Demgegenüber Held, der "die menschliche Handlungsfähigkeit nicht als bloße[n] Ausdruck einer bestimmten Teleologie, des Schicksals oder einer Tradition verstanden" wissen will. Die menschliche Handlungsfähigkeit "muss eher als das Vermögen gedacht werden, sich für eine von diesen Mustern abweichende Handlung entscheiden zu können -- also die Fähigkeit, die menschliche Gemeinschaft nicht nur zu akzeptieren, sondern sie auch, im Zusammenhang mit den Entscheidungen anderer, durch das eigene Handeln zu formen. Die aktive Handlungsfähigkeit bezeichnet das menschliche Vermögen, selbstbewusst zu denken, das eigene Handeln zu reflektieren und selbst zu bestimmen." [@held2013, S. 67]
-
-Klarer könnte Held nicht sein Unverständnis der Funktionsweise gesellschaftlicher Prozesse zum Ausdruck bringen. Im Gegensatz zu diesem Wunschdenken von Held gilt es, gerade die Dialektik zwischen den von unserem Willen unabhängigen Produktionsverhältnissen und der Möglichkeit diese kollektiv umgestalten zu können. In der Tat sind sowohl die Verhältnisse als auch ihre revolutionäre Veränderung vom Willen Einzelner unabhängig.
-
-
-Aber was sind Rechte, fragt @ash1964 [Kap. 2]. Die Bedeutung des Begriffs "Recht", so seine These, kann durch Deduktion von bestimmten Rechten gewonnen werden, die in den materiellen Bedingungen des Lebens dieses oder jenen Typs von Gesellschaft gegründet sind. Rechte verkörpern Ansprüche, welche die Form von Ansprüchen gegenüber anderen Menschen oder Ansprüche auf Dinge haben können. Zu sagen, es ist rechtens etwas zu tun, erkennen wir die Legitimität eines Anspruchs an. Anderen gegenüber anerkannte Ansprüche basieren auf bestimmten sozialen Beziehungen die Menschen miteinander verbinden [@ash1964, S. 46]. Allgemein zugestandene Ansprüche hängen von sozialen Beziehungen ab, welche von den materiellen Bedingungen des Lebens einer Gesellschaft abhängt. Deshalb sind "Rechte", als das, was Menschen berechtigt sind voneinander zu erwarten, letztlich auf der ökonomischen Basis einer Gesellschaft begründet [@ash1964, S. 47].
 
 
 
 
 
 
-
-# Fazit
-
-<!---
-Or to put it bluntly with Alasdair MacIntyre
-
-Alternatively, the counter-question might be asked from a non-utilitarian perspective. So, for example, Alasdair Maclntyre, in developing a “social ideological,” quasi-Aristotelian view, observes that it would be
-
-> "a little odd that there should be such rights attaching to human beings simply qua human beings in light of the fact […] that there is no expression in any ancient or medieval language correctly translated by our expression ‚a right‘ until near the close of the middle ages: the concept lacks any means of expression in Hebrew, Greek, Latin or Arabic, classical or medieval, before about 1400, let alone in Old English, or in Japanese even as late as the mid-nineteenth century. From this it does not of course follow that there are no natural or human rights; it only follows that no one could have known that there were. And this at least raises certain questions. But we do not need to be distracted into answering them, for the truth is plain: there are no such rights, and belief in them is one with belief in witches and unicorns."
 
 -->
 
